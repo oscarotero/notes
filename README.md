@@ -1,6 +1,6 @@
 # Notes
 
-Minimalist notepad for Deno Deploy
+Minimalist notepad for Deno Deploy. It uses [Deno KV](https://deno.com/kv) to store the data.
 
 ## Run
 
